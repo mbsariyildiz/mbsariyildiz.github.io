@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mert Bülent Sarıyıldız"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Mert Bülent Sarıyıldız"
-description              : &description ""
+name                     :
+description              :
 url                      : https://mbsariyildiz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mbsariyildiz/mbsariyildiz.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : Mert Bülent Sarıyıldız
   avatar           : "profile.png"
-  bio              :
+  bio              : ""
   location         :
   employer         :
   googlescholar    :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
