@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master student at the Computer Engineering Department in Bilkent University and 
 I have been working with [Asst. Prof. Dr. R. Gokberk Cinbis](http://user.ceng.metu.edu.tr/~gcinbis/).
-I love studying machine learning problems in the context of computer vision.
+I love studying machine learning problems in computer vision applications.
 Currently, my research is particularly focused on weakly supervised learning and generative models. 
 
 I received my B.Sc. from the Electrical and Electronics Engineering Department in Anadolu University in 2016, 
