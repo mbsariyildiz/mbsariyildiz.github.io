@@ -18,8 +18,9 @@ where my thesis project was supervised by [Prof. Dr. Ömer Nezih](http://eem.esk
 Besides, during my final year at Anadolu, I as a [Visean](http://visea.com.tr/en/)!
 For this hands-on experience, I am grateful to [Asst. Prof. Dr. Cihan Topal](http://eem.eskisehir.edu.tr/cihant/) 
 
-News
-======
-* On the 4th of February, I will join NAVER LABS Europe as an intern to study under the supervision of 
+
+### News
+* Feb. 2019 - I joined the Computer Vision team at NAVER LABS Europe as an intern to study under the supervision of 
 [Dr. Diane Larlus](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Diane-Larlus) and 
 [Dr. Julien Perez](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Julien-Perez).
+* Oct. 2018 - [Our translation](http://www.buzdagiyayinevi.com/derin-ogrenme/) of Deep Learning book by Goodfellow et al has been published.
