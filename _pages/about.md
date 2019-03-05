@@ -22,7 +22,7 @@ For this hands-on experience, I am grateful to [Asst. Prof. Dr. Cihan Topal](htt
 ### News
 
 * 03/19 - A paper accepted at CVPR'19: 
-  _Gradient Matching Generative Networks for Zero-Shot Learning_, code and arXiv pre-print will be released soon.
+  _Gradient Matching Generative Networks for Zero-Shot Learning_ (oral), code and arXiv pre-print will be released soon.
 
 * 02/19 - I joined the Computer Vision team at NAVER LABS Europe as an intern to study under the supervision of 
 [Dr. Diane Larlus](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Diane-Larlus) and 
