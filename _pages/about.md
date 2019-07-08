@@ -20,6 +20,8 @@ For this hands-on experience, I am grateful to [Asst. Prof. Dr. Cihan Topal](htt
 
 ### News
 
+* 07/19 - I received the intern day 2019 session-1 _winner_ award at NAVER LABS Europe, yeey!
+
 * 03/19 - A paper accepted at CVPR'19: 
   _Gradient Matching Generative Networks for Zero-Shot Learning_ (oral presentation),
   [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.html),
