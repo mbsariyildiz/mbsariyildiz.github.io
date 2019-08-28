@@ -20,6 +20,8 @@ For this hands-on experience, I am grateful to [Asst. Prof. Dr. Cihan Topal](htt
 
 ### News
 
+* 08/19 - Our work _Key Protected Classification for Collaborative Learning_ is on [arXiv](https://arxiv.org/abs/1908.10172).
+
 * 07/19 - I received the intern day 2019 session-1 _winner_ award at NAVER LABS Europe, yeey!
 
 * 03/19 - A paper accepted at CVPR'19: 
