@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at the Computer Engineering Department in Bilkent University and 
-I have been working with [Asst. Prof. Dr. R. Gokberk Cinbis](http://user.ceng.metu.edu.tr/~gcinbis/).
-I love studying machine learning problems in computer vision applications.
-Currently, my research is particularly focused on weakly supervised learning and generative models. 
+I am a researcher at [Naver Labs Europe](https://europe.naverlabs.com), working under the supervision of [Diane Larlus](https://europe.naverlabs.com/people_user/Diane-Larlus/).
+Diane and I have been studying _self-supervised learning_ as a form of unsupervised learning and developing _vision + language_ models to learn visual representations from text.
+I am grateful to her as she is giving me a chance to work on these _cool_ topics.
+Also I am quite happy to be part of the computer vision team at NLE.
+
+I received my M.Sc. degree in computer science from the Computer Engineering Department in Bilkent University.
+During my master, I worked with [Asst. Prof. Dr. R. Gokberk Cinbis](http://user.ceng.metu.edu.tr/~gcinbis/) on various machine learning problems.
+I feel lucky and proud of being one of his students.
 
 I received my B.Sc. from the Electrical and Electronics Engineering Department in Anadolu University in 2016, 
 where my thesis project was supervised by [Prof. Dr. Ömer Nezih](http://eem.eskisehir.edu.tr/ongerek/).
@@ -19,6 +23,11 @@ Besides, during my final year at Anadolu, I as a [Visean](http://visea.com.tr/en
 For this hands-on experience, I am grateful to [Asst. Prof. Dr. Cihan Topal](http://eem.eskisehir.edu.tr/cihant/) 
 
 ### News
+
+* 03/20 - Our work _Key Protected Classification for Collaborative Learning_ is accepted as a journal paper at _Pattern Recognition_.
+  [Code](https://mbsariyildiz.github.io/key-protected-classification)
+
+* 09/19 - I joined Naver Labs Europe as a researcher.
 
 * 08/19 - Our work _Key Protected Classification for Collaborative Learning_ is on [arXiv](https://arxiv.org/abs/1908.10172).
 
