@@ -8,21 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Naver Labs Europe](https://europe.naverlabs.com), working under the supervision of [Diane Larlus](https://europe.naverlabs.com/people_user/Diane-Larlus/).
-Diane and I have been studying _self-supervised learning_ as a form of unsupervised learning and developing _vision + language_ models to learn visual representations from text.
-I am grateful to her as she is giving me a chance to work on these _cool_ topics.
-Also I am quite happy to be part of the computer vision team at NLE.
+I am a doctoral researcher in the Computer Vision team at [Naver Labs Europe](https://europe.naverlabs.com) and the [THOTH](https://thoth.inrialpes.fr/) team at [Inria Grenoble](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes), working with [Diane Larlus](https://europe.naverlabs.com/people_user/Diane-Larlus/) and [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/).
+Currently, I am focusing on two particular ways in learning visual representations:
+_self-supervised learning_ (to learn from unlabeled data) and _vision + language_  (to learn from textual supervision).
 
-I received my M.Sc. degree in computer science from the Computer Engineering Department in Bilkent University.
-During my master, I worked with [Asst. Prof. Dr. R. Gokberk Cinbis](http://user.ceng.metu.edu.tr/~gcinbis/) on various machine learning problems.
+I received my M.Sc. degree from the [Computer Engineering Department](http://w3.cs.bilkent.edu.tr/en/) at Bilkent University.
+During my master, I worked with [R. Gokberk Cinbis](http://user.ceng.metu.edu.tr/~gcinbis/) on various machine learning problems.
 I feel lucky and proud of being one of his students.
 
-I received my B.Sc. from the Electrical and Electronics Engineering Department in Anadolu University in 2016, 
-where my thesis project was supervised by [Prof. Dr. Ömer Nezih](http://eem.eskisehir.edu.tr/ongerek/).
+I received my B.Sc. from the [Electrical and Electronics Engineering Department](http://eem.eskisehir.edu.tr/) at Anadolu University (now [Eskisehir Technical University](https://www.eskisehir.edu.tr/en)) in 2016, 
+where my thesis project was supervised by [Ömer Nezih](http://eem.eskisehir.edu.tr/ongerek/).
 Besides, during my final year at Anadolu, I as a [Visean](http://visea.com.tr/en/)!
-For this hands-on experience, I am grateful to [Asst. Prof. Dr. Cihan Topal](http://eem.eskisehir.edu.tr/cihant/) 
+For this hands-on experience, I am grateful to [Cihan Topal](http://eem.eskisehir.edu.tr/cihant/) 
 
 ### News
+
+* 08/20 - Our work _Learning Visual Representations with Caption Annotations_ is accepted to European Conference on Computer Vision (ECCV) 2020.
+  [Project website](https://europe.naverlabs.com/research/computer-vision-research-naver-labs-europe/icmlm/)
 
 * 03/20 - Our work _Key Protected Classification for Collaborative Learning_ is accepted as a journal paper at _Pattern Recognition_.
   [Code](https://mbsariyildiz.github.io/key-protected-classification)
