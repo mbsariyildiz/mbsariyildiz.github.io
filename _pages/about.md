@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher in the Computer Vision team at [Naver Labs Europe](https://europe.naverlabs.com) and the [THOTH](https://thoth.inrialpes.fr/) team at [Inria Grenoble](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes), working with [Diane Larlus](https://europe.naverlabs.com/people_user/Diane-Larlus/) and [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/).
+I am a doctoral researcher in the Computer Vision team at [Naver Labs Europe](https://europe.naverlabs.com) and the [THOTH](https://thoth.inrialpes.fr/) team at [Inria Grenoble](https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes), working with [Diane Larlus](https://europe.naverlabs.com/people_user/Diane-Larlus/), [Karteek Alahari](https://thoth.inrialpes.fr/people/alahari/) and [Yannis Kalantidis](https://www.skamalas.com).
 My studies focus on two particular ways in learning visual representations: _self-supervised learning_ (to learn from unlabeled data) and _vision + language_  (to learn from textual supervision).
 
 I received my M.Sc. degree from the [Computer Engineering Department](http://w3.cs.bilkent.edu.tr/en/) at Bilkent University.
