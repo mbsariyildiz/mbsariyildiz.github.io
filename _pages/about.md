@@ -23,7 +23,7 @@ For this hands-on experience, I am grateful to [Cihan Topal](http://eem.eskisehi
 ### News
 
 * 12/20 - New preprint _Concept Generalization in Visual Representation Learning_ is available on [arXiv](https://arxiv.org/abs/2012.05649).
-  [Project website](https://europe.naverlabs.com/research/computer-vision/cog-benchmark)
+  [[Project website](https://europe.naverlabs.com/research/computer-vision/cog-benchmark)]
 
 * 09/20 - Our work _Hard Negative Mixing for Contrastive Learning_ is accepted to Advances in Neural Information Processing Systems (NeurIPS) 2020.
   [Project website](https://europe.naverlabs.com/research/computer-vision/mochi)
