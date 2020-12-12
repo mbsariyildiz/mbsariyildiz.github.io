@@ -26,24 +26,24 @@ For this hands-on experience, I am grateful to [Cihan Topal](http://eem.eskisehi
   [[Project website](https://europe.naverlabs.com/research/computer-vision/cog-benchmark)]
 
 * 09/20 - Our work _Hard Negative Mixing for Contrastive Learning_ is accepted to Advances in Neural Information Processing Systems (NeurIPS) 2020.
-  [Project website](https://europe.naverlabs.com/research/computer-vision/mochi)
+  [[Project website](https://europe.naverlabs.com/research/computer-vision/mochi)]
 
 * 08/20 - Our work _Learning Visual Representations with Caption Annotations_ is accepted to European Conference on Computer Vision (ECCV) 2020.
-  [Project website](https://europe.naverlabs.com/research/computer-vision-research-naver-labs-europe/icmlm/)
+  [[Project website](https://europe.naverlabs.com/research/computer-vision-research-naver-labs-europe/icmlm/)]
 
 * 03/20 - Our work _Key Protected Classification for Collaborative Learning_ is accepted as a journal paper at _Pattern Recognition_.
-  [Code](https://mbsariyildiz.github.io/key-protected-classification)
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320301308)],
+  [[arXiv](https://arxiv.org/abs/1908.10172)],
+  [[Code](https://mbsariyildiz.github.io/key-protected-classification)]
 
 * 09/19 - I joined Naver Labs Europe as a researcher.
-
-* 08/19 - Our work _Key Protected Classification for Collaborative Learning_ is on [arXiv](https://arxiv.org/abs/1908.10172).
 
 * 07/19 - I received the intern day 2019 session-1 _winner_ award at NAVER LABS Europe, yeey!
 
 * 03/19 - A paper accepted at CVPR'19:
   _Gradient Matching Generative Networks for Zero-Shot Learning_ (oral presentation),
-  [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.html),
-  [Code](https://github.com/mbsariyildiz/gmn-zsl)
+  [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.html)],
+  [[Code](https://github.com/mbsariyildiz/gmn-zsl)]
 
 * 02/19 - I joined the Computer Vision team at NAVER LABS Europe as an intern to study under the supervision of
 [Dr. Diane Larlus](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Diane-Larlus) and
