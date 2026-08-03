@@ -56,8 +56,7 @@
                                         <a href="data/MertBulentSariyildiz_resume.pdf">CV</a> &nbsp/&nbsp
                                         <a href="https://scholar.google.com/citations?user=9vpQ9tIAAAAJ&hl=en">Google
                                             Scholar</a> &nbsp/&nbsp
-                                        <a href="https://twitter.com/mbsariyildiz">Twitter</a> &nbsp/&nbsp
-                                        <a href="https://github.com/mbsariyildiz">Github</a>
+                                        <a href="https://twitter.com/mbsariyildiz">Twitter</a>
                                     </p>
                                 </td>
                                 <td style="padding:2.5%;width:25%;max-width:25%">
@@ -77,6 +76,22 @@
                                     <heading>News</heading>
                                     <p>
                                     <ul>
+                                        <li>
+                                            [<em>2026-07</em>] -
+                                            Selected as an outstanding reviewer at <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>!
+                                        </li>
+                                        <li>
+                                            [<em>2026-07</em>] -
+                                            <a href="#row-26ideal">IDeaL</a> is accepted to <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>!<br>
+                                        </li>
+                                        <li>
+                                            [<em>2026-07</em>] -
+                                            <a href="#row-26tap">TAP</a> is accepted to <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a>!<br>
+                                        </li>
+                                        <li>
+                                            [<em>2026-06</em>] -
+                                            New pre-print on arXiv: <a href="#row-26chimera">Chimera | Compressing observation history into agent memory</a>
+                                        </li>
                                         <li>
                                             [<em>2025-09</em>] -
                                             <a href="#row-25kinaema">Kinaema</a> is accepted to <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025</a>!<br>
@@ -211,6 +226,82 @@
                     <table
                         style="width:100%;border:0px;border-spacing:10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                         <tbody>
+
+                            <tr id="row-26ideal" class="pubrow">
+                                <td class="pubimagecol">
+                                    <!-- Teaser figure -->
+                                    <a href="pub/2026-ideal/ideal.png" target="_blank">
+                                    <img id="myImg" src="pub/2026-ideal/ideal.png"
+                                        alt="IDeaL overview"
+                                        style="width:100%;height:auto">
+                                    </a>
+                                </td>
+                                <td class="pubpapercol">
+                                    <a href="https://europe.naverlabs.com/research/publications/ideal-data-free-multi-teacher-distillation-via-improved-dead-leaves/">
+                                        <papertitle>IDeaL | Data-free Multi-teacher Distillation via Improved Dead Leaves</papertitle>
+                                    </a>
+                                    <br>
+                                    Feyza Yavuz, Mert Bulent Sariyildiz, Diane Larlus<br>
+                                    <em><a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a></em>
+                                    <br>
+                                    <p>
+                                        Multi-teacher distillation usually assumes access to the teachers' training images. We drop that assumption and instead tailor the noise we distill from: using decorrelation losses at both the patch and the image level, we generate teacher-specific samples, IDeaL, whose students substantially narrow the gap to those distilled from real images.<br>
+                                        <a href="pub/2026-ideal/IDeaL.pdf" target="_blank">PDF</a>
+                                    </p>
+                                </td>
+                            </tr>
+
+                            <tr id="row-26tap" class="pubrow">
+                                <td class="pubimagecol">
+                                    <!-- Teaser animation -->
+                                    <a href="pub/2026-tap/tap.mp4" target="_blank">
+                                    <video src="pub/2026-tap/tap.mp4"
+                                        poster="pub/2026-tap/tap_poster.jpg"
+                                        aria-label="TAP: merging performance versus hyper-parameter selection cost"
+                                        autoplay loop muted playsinline
+                                        style="width:100%;height:auto;border-radius:5px">
+                                    </video>
+                                    </a>
+                                </td>
+                                <td class="pubpapercol">
+                                    <a href="https://arxiv.org/abs/2604.12935">
+                                        <papertitle>TAP | Task Alignment: A Simple Proxy for Practical Model Merging Across Diverse Vision Tasks</papertitle>
+                                    </a>
+                                    <br>
+                                    Pau de Jorge, César Roberto de Souza, Björn Michele, Mert Bulent Sariyildiz, Philippe Weinzaepfel, Florent Perronnin, Diane Larlus, Yannis Kalantidis<br>
+                                    <em><a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a></em>
+                                    <br>
+                                    <p>
+                                        We study how to merge multiple models fine-tuned for different tasks from a shared pretrained backbone, beyond the usual CLIP-based image classification setting.
+                                        We introduce a task alignment proxy that speeds up hyper-parameter selection by orders of magnitude without expensive downstream training, and that extends model merging to diverse vision tasks with heterogeneous decoders.
+                                    </p>
+                                </td>
+                            </tr>
+
+                            <tr id="row-26chimera" class="pubrow">
+                                <td class="pubimagecol">
+                                    <!-- Teaser figure -->
+                                    <a href="pub/2026-chimera/chimera.png" target="_blank">
+                                    <img id="myImg" src="pub/2026-chimera/chimera.png"
+                                        alt="Chimera overview"
+                                        style="width:100%;height:auto">
+                                    </a>
+                                </td>
+                                <td class="pubpapercol">
+                                    <a href="https://arxiv.org/abs/2606.21562">
+                                        <papertitle>Chimera | Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers</papertitle>
+                                    </a>
+                                    <br>
+                                    Philippe Weinzaepfel, Christian Wolf, Mert Bulent Sariyildiz, Guillaume Bono, Gianluca Monaci<br>
+                                    <em>arXiv 2026</em>
+                                    <br>
+                                    <p>
+                                        Recurrent transformers keep a fixed-size memory, but they lag behind transformers that attend over the full observation history.
+                                        We argue this gap comes from how the two models learn to compress the past rather than from an architectural limit, and we close it with a distillation approach: a teacher that explicitly compresses its observation history into a fixed-size bottleneck directly supervises the student's memory.
+                                        This yields a recurrent latent robotic memory with linear-time complexity for long-horizon streaming vision and robotics tasks such as map-free pose estimation.
+                                    </p>
+                                </td>
+                            </tr>
 
                             <tr id="row-25kinaema" class="pubrow">
                                 <td class="pubimagecol">
